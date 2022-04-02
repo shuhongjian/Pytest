@@ -1,0 +1,14 @@
+{
+    "data": {
+        "id": 500,
+        "rid": 0,
+        "username": "admin",
+        "mobile": "13884427351",
+        "email": "fffffffffff@qq.com",
+        "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2NDAwODA5MjIsImV4cCI6MTY0MDE2NzMyMn0.oZdy_C7iCRMqm-p9p43XjfJ3NFUaUylgZoPWMBqC62U"
+    },
+    "meta": {
+        "msg": "登录成功",
+        "status": 200
+    }
+}

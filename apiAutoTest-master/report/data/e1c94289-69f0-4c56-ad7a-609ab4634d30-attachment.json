@@ -1,0 +1,10 @@
+{
+    "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2NDAwODA5MjIsImV4cCI6MTY0MDE2NzMyMn0.oZdy_C7iCRMqm-p9p43XjfJ3NFUaUylgZoPWMBqC62U",
+    "userId": 3498,
+    "meta": {
+        "msg": "登录成功",
+        "status": 200
+    },
+    "userId5": 3498,
+    "create_time": 1640080924
+}

@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./实用脚本/pyQt/综合工具组/12.27_dome2/time_PY"
+    ]
+}
